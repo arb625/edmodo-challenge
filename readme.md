@@ -29,3 +29,5 @@ Here are some of the key features:
 
 **This site uses the Custom CSS template Privy from Templated. It has been heavily modified for this specific use case. The API is from
   Edmodo. Code and design is by me, Anurag Baddam. Please enjoy the site and report any bugs to baddamanu@berkeley.edu. Cheers!
+  
+  [Layout of the site](images/site_overview.PNG)
