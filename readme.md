@@ -31,3 +31,10 @@ Here are some of the key features:
   Edmodo. Code and design is by me, Anurag Baddam. Please enjoy the site and report any bugs to baddamanu@berkeley.edu. Cheers!
   
 ![Layout of the site](images/site_overview.PNG)
+Layout of the site
+
+![Submissions](images/submissions.PNG)
+Submissions Tab
+ 
+![New Assignment](images/new_assignment.PNG)
+New Assignment Creation
