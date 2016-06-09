@@ -1,6 +1,4 @@
----------------------
-Edmodo Coding Challenge
-By: Anurag Baddam
+**Edmodo Coding Challenge**
 ---------------------
 
 This webpage allows a teacher to browse his/her assignments and the submissions for a particular assignment. It implements the 
@@ -8,12 +6,16 @@ required features for this coding challenge as well as numerous optional feature
 the index.html file. The fonts, images, and css files used are also included in the directory.
 
 Here are some of the key features:
-* A teacher can see a sidebar list of assignments with title and due date.
-* A teacher can select an assignment by clicking on it in the sidebar.
+* A teacher can see a sidebar list of assignments with title and due date.
+
+* A teacher can select an assignment by clicking on it in the sidebar.
+
 * A teacher can toggle between assignment details and student submissions for the selected assignment.
     * Please note that some assignments return two identical entries from the same student from the API call. Both are included.
-* A teacher can expand a student submission in place to see the submission content.
-* Reloading a page with a selected assignment keeps the assignment selected.
+* A teacher can expand a student submission in place to see the submission content.
+
+* Reloading a page with a selected assignment keeps the assignment selected.
+
 * Teachers can create a new assignment. The assignment will be added to the sidebar and be selectable.
     * The modal will ensure that you enter some non-empty title and description, and it only allows you to choose an actual date, and
       it even checks for leap years!
