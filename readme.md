@@ -1,5 +1,4 @@
-**Edmodo Coding Challenge**
----------------------
+# Edmodo Coding Challenge
 
 This webpage allows a teacher to browse his/her assignments and the submissions for a particular assignment. It implements the 
 required features for this coding challenge as well as numerous optional features (options 2 and 3 to be exact). The actual page is
